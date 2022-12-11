@@ -16,9 +16,9 @@ Learn how to spatial join the GeoDataFrame and Pandas DataFrame by using differe
 
 Learn data visualization using different color maps, color bars, and schemes.
 
-![Example](https://github.com/kleeresearch/training/blob/main/images/train1.png "Example 1")
+![Example](https://github.com/kleeresearch/training/blob/main/images/train1.png)
 
-![Example2](https://github.com/kleeresearch/training/blob/main/images/train2.png "Example 2")
+![Example2](https://github.com/kleeresearch/training/blob/main/images/train2.png)
 
 Guidelines for the training:
 
