@@ -18,6 +18,8 @@ Learn data visualization using different color maps, color bars, and schemes.
 
 ![Example](https://github.com/kleeresearch/training/blob/main/images/train1.png)
 
+![Example2](https://github.com/kleeresearch/training/blob/main/images/train2.png)
+
 Guidelines for the training:
 
 If you wish to follow along please do the following:
