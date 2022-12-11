@@ -4,7 +4,7 @@
 
 2. Data: Open Data from the World Bank
 
-3. Use Case: Geospatial analysis helps to see different data sets by country level. Using population, GDP, and CO2 intensity data from the World Bank, we will learn how to plot the world map and how to use spatial join methods to merge the map and the specific data we want to explore. We will learn the basic methods to change colors, make color bars, and set quantiles to plot maps effectively.
+3. Use Case: Geospatial analysis helps to see different data sets by country level. Using population, GDP, and CO2 intensity data from the World Bank, we will learn how to plot the world map and how to use spatial join methods to merge the map and specific data we want to explore. We will learn the basic methods to change colors, make color bars, and set quantiles to plot maps effectively.
 
 4. Learning Objectives:
 
