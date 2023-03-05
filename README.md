@@ -1,6 +1,6 @@
 # UD CSSA Training Sessions
 
-## Fall 2022 Training Session 2: Geospatial Analysis
+## Fall 2022 Training Session: Geospatial Analysis
 
 1. Title: "Geospatial Analysis in Python"
 
