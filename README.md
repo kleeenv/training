@@ -30,7 +30,7 @@
 
 
 
-## Spring 2023 Training Session - Diversity, Equity, and Inclusion: the Basic Python Tools
+## Spring 2023 Training Session - Diversity, Equity, and Inclusion
 
 
 1. Title: "Diversity, Equity, and Inclusion: the Basic Python Tools"
