@@ -10,11 +10,11 @@
 
 4. Learning Objectives:
 
-* Learn how to read in GeoDataFrame into python and understand the core packages used in the data analysis/data science stack along with other aspects of data cleaning (e.g. population, GDP)
+* Learn how to read in GeoDataFrame into python and understand the core packages used in the data analysis/data science stack along with other aspects of data cleaning (e.g. population, GDP).
 
-* Learn how to read in Pandas DataFrame into python to plot the data we want to explore (e.g. CO2 intensity)
+* Learn how to read in Pandas DataFrame into python to plot the data we want to explore (e.g. CO2 intensity).
 
-* Learn how to spatial join the GeoDataFrame and Pandas DataFrame by using different methods(e.g. how='inner' or 'outer')
+* Learn how to spatial join the GeoDataFrame and Pandas DataFrame by using different methods(e.g. how='inner' or 'outer').
 
 * Learn data visualization using different color maps, color bars, and schemes.
 
@@ -25,8 +25,8 @@
 5. Guidelines for the training:
 
 - Training session video is available for UD CSSA members. 
-- Blank version of the notebook is uploaded for trainee
-- Answer version of the notebook is uploaded for reference 
+- Blank version of the notebook is uploaded for trainee.
+- Answer version of the notebook is uploaded for reference. 
 
 
 
@@ -45,9 +45,9 @@
 
 * Learn the DEI definition and challenges and find data from library and governmental open data platforms at the county, state, and national levels. 
 
-* Learn how to load data from a governmental open data platform and understand the core packages 
+* Learn how to load data from a governmental open data platform and understand the core packages. 
 
-* Check statistics of the data set using basic tools and conduct data manipulation for analysis 
+* Check statistics of the data set using basic tools and conduct data manipulation for analysis. 
 
 * Learn how to run descriptive statistics & plot histograms and pie charts in Python, and interpret data results. 
 
@@ -57,7 +57,7 @@
 5. Guidelines for the training:
 
 - Training session video is available for the UD CSSA members. 
-- Blank version of the notebook is for trainee
-- Answer version of the notebook is for reference 
+- Blank version of the notebook is for trainee.
+- Answer version of the notebook is for reference. 
 
 
