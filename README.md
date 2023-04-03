@@ -1,5 +1,7 @@
 # UD CSSA Training Sessions
 
+Instructor: Kyungmin Lee (Acting President)
+
 ## Fall 2022 Training Session - Geospatial Analysis
 
 1. Title: "Geospatial Analysis in Python"
